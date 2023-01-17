@@ -5,6 +5,9 @@ This is a paragraph.
     This is a paragraph.
 
 
+# Image link
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg)](https://en.wikipedia.org/wiki/Songbird)
+
 
 Header 1
 ========
